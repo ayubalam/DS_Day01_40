@@ -25,4 +25,4 @@ print("\nStarting dashboard...\n")
 
 subprocess.run(
     ["streamlit", "run", "dashboard/app.py"]
-)
+)   
